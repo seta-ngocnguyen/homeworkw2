@@ -1,0 +1,43 @@
+body {
+    background-color: #7fffd4;
+}
+
+#quote-box {
+    margin: 100px auto;
+    padding: 50px 100px 50px 100px;
+    border-radius: 8px;
+    background-color: white;
+}
+
+#quote-text {
+    font-size: 36px;
+    font-weight: bold;
+    color: #7fffd4;
+}
+
+#quote-author {
+    font-size: 18px;
+    font-style: italic;
+    text-align: right;
+    color: #7fffd4;
+}
+
+#button {
+    padding-top: 50px;
+    text-align: right;
+}
+#quote-button {
+    background-color: #7fffd4;
+    padding: 10px;
+    color: white;
+    font-size: larger;
+}
+
+#footer {
+    text-align: center;
+}
+#footer a:-webkit-any-link {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
